@@ -1,0 +1,13 @@
+MRS KNOX TEACHES · QCAA GRADE PROJECTOR
+
+Upload index.html and subjects.js together to the root of a new public GitHub repository. The website needs both files beside each other. README.md is optional.
+
+1. On GitHub, select the + menu (top right) → New repository.
+2. Name it qcaa-grade-projector, choose Public, tick Add a README file, then select Create repository.
+3. Select Add file → Upload files. Drag in index.html and subjects.js from this unzipped folder; select Commit changes.
+4. Select Settings → Pages (left sidebar).
+5. Under Build and deployment, select Deploy from a branch. Select main and /(root), then Save.
+6. Wait for GitHub Pages to finish publishing. Refresh Settings → Pages to find the live link. It will usually be https://JasmineKnox.github.io/qcaa-grade-projector/ if you use the suggested name.
+7. Open the live link and choose a subject to confirm the calculator works. If the list is empty, confirm subjects.js is in the same root folder as index.html.
+
+The site has no server and needs no build process. It uses the 2025 QCAA grade boundaries as projections, not final grade promises.
